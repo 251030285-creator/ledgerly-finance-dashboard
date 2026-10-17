@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Storage-browser%20local-516273?style=for-the-badge" alt="Browser local storage" />
 </p>
 
-## Highlights
+## Live preview`r`n`r`n[Open Ledgerly](https://251030285-creator.github.io/ledgerly-finance-dashboard/)`r`n`r`n## Highlights
 
 - Add invoices manually or upload invoice files for data extraction.
 - Calculate invoice subtotals and line-item tax.
@@ -87,5 +87,6 @@ The repository provides the dashboard as a ZIP package. Inside the extracted pac
 ---
 
 <p align="center"><sub>Ledgerly · Invoice insights, made clear.</sub></p>
+
 
 
